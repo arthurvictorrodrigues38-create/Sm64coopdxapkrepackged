@@ -3,6 +3,14 @@ Sm64coopdxapkrepac
 
 Hi, this is my first repository that I'm going to work on seriously; I'll be updating it every day.
 
+🧪 Test It on Your Device!
+
+Try the game on your device and check if everything works correctly.
+
+🐛 Found a bug or compatibility issue? Please open an Issue on this GitHub repository and describe the problem, your device model, and your Android version.
+
+Your feedback helps improve the project! ❤️
+
 ⚠️ Linux Build — Experimental
 
 This build has been prepared but has not yet been successfully tested in a native Linux environment. Compatibility and stability are not guaranteed. Please report any issues you encounter.
