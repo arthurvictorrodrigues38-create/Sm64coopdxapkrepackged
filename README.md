@@ -27,7 +27,10 @@ First, you need to extract the ROM from the Nintendo 64, then you need an SD car
 You need to move the ROM to where the executable file is located.
 
 ## android version installation
-⚠️Some devices may not be compatible with an SD card reader.
+⚠️Some devices may not be compatible with an SD card reader. or watch this video here
+<a href="https://youtu.be/BLZov4gSPF8?si=NWi7KmdYoku5JUff">
+  <img src="https://img.youtube.com/vi/BLZov4gSPF8/hqdefault.jpg" alt="Thumbnail do vídeo" width="800">
+</a>
 
 First, you need an original Mario 64 cartridge; second, an SD card reader; third, transfer the game to your device's internal memory; and then simply click on the ROM
 
