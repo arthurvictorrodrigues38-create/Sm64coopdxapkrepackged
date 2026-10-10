@@ -38,7 +38,7 @@ Modified SM64CoopDX APK featuring custom mods, characters, and game modes.
 
 Screenshot
 
-"Screenshot do SM64CoopDX" (https://raw.githubusercontent.com/arthurvictorrodrigues38-create/Sm64coopdxapkrepackged/main/Screenshot_20261009_163205_ZArchiver.jpg)
+"Screenshot do SM64CoopDX"# (https://raw.githubusercontent.com/arthurvictorrodrigues38-create/Sm64coopdxapkrepackged/main/Screenshot_20261009_163205_ZArchiver.jpg)
 
 mods
 
