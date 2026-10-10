@@ -1,5 +1,5 @@
 # SM64CoopDX-Repack
-![SM64CoopDX Repack] (https://github.com/arthurvictorrodrigues38-create/SM64CoopDX-Repack/blob/main/as.png)
+![SM64CoopDX Repack]. (https://github.com/arthurvictorrodrigues38-create/SM64CoopDX-Repack/blob/main/as.png)
 ![SM64CoopDX Repack](https://raw.githubusercontent.com/arthurvictorrodrigues38-create/Sm64coopdxapkrepackged/main/Screenshot_20261009_163205_ZArchiver.jpg)
 
 
