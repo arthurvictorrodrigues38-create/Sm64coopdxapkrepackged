@@ -4,6 +4,8 @@ Sm64coopdxapkrepac
 Hi, this is my first repository that I'm going to work on seriously; I'll be updating it every day.
 and Please buy the game and download it; I do not accept piracy.
 
+#⚠️ warning armeabi-v7a don't work
+
 🧪 Test It on Your Device!
 
 Try the game on your device and check if everything works correctly.
