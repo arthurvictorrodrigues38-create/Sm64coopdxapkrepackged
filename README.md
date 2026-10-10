@@ -2,7 +2,7 @@
 <p align="center">
   <img src="as.png" alt="SM64CoopDX Repack" width="800">
 </p>
-The screenshot files are below. <p align="center <omg src="https://github.com/arthurvictorrodrigues38-create/SM64CoopDX-Repack/blob/main/vecteezy_down-side-directional-arrow-sign-on-transparent-background_53123112.png" alt="setaparabaixo" width="800"
+The screenshot files are below. <p align="center <omg src="https://raw.github.com/arthurvictorrodrigues38-create/SM64CoopDX-Repack/blob/main/vecteezy_down-side-directional-arrow-sign-on-transparent-background_53123112.png" alt="setaparabaixo" width="800"
 <p align="center">
   <img src="Screenshot_20261009_163205_ZArchiver.jpg" alt="Screenshot do SM64CoopDX" width="800">
 </p>
