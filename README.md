@@ -19,6 +19,13 @@ Try the game on your device and check if everything works correctly.
 
 Your feedback helps improve the project! ❤️
 
+## Installation
+
+First, you need to extract the ROM from the Nintendo 64, then you need an SD card reader, and only then can you transfer the ROM to your device
+
+## windows version installation
+You need to move the ROM to where the executable file is located.
+
 ⚠️ Linux Build — Experimental
 
 This build has been prepared but has not yet been successfully tested in a native Linux environment. Compatibility and stability are not guaranteed. Please report any issues you encounter.
