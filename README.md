@@ -56,10 +56,6 @@ Modified SM64CoopDX APK featuring custom mods, characters, and game modes.
 
 📦 Download, install, and enjoy!
 
-Screenshot
-
-"Screenshot do SM64CoopDX"# ()
-
 mods
 
 [CS] Club Penguin.zip
