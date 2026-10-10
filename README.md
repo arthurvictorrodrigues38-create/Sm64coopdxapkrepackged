@@ -1,4 +1,6 @@
-# SM64CoopDX-Repack
+<p align="center">
+  <img src="as.png" alt="SM64CoopDX Repack" width="800">
+</p>
 <p align="center">
   <img src="as.png" alt="SM64CoopDX Repack" width="800">
 </p>
