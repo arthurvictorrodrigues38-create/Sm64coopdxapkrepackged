@@ -24,7 +24,7 @@ Your feedback helps improve the project! ❤️
 First, you need to extract the ROM from the Nintendo 64, then you need an SD card reader, and only then can you transfer the ROM to your device
 
 ## windows version installation
-You need to move the ROM to where the executable file is located.
+You need to move the ROM to where the executable file is located and execute the .exe file
 
 ## android version installation
 ⚠️Some devices may not be compatible with an SD card reader. or watch this video here
