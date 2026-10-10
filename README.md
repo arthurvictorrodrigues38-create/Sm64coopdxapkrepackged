@@ -2,7 +2,7 @@
 <p align="center">
   <img src="as.png" alt="SM64CoopDX Repack" width="800">
 </p>
-The screenshot files are below. ![](https://ibb.co/Cp8L5B5R)
+The screenshot files are below. [](https://ibb.co/Cp8L5B5R)
 <p align="center">
   <img src="Screenshot_20261009_163205_ZArchiver.jpg" alt="Screenshot do SM64CoopDX" width="800">
 </p>
