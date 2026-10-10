@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="as.png" alt="SM64CoopDX Repack" width="800">
-</p>
+<h1 align="center">🚀 SM64CoopDX-Repack</h1>
 <p align="center">
   <img src="as.png" alt="SM64CoopDX Repack" width="800">
 </p>
